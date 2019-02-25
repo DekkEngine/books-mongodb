@@ -2,7 +2,7 @@
 
 ## Web Books
 
-### Install
+### Installation
 `npm install`
 
 ### Usage
@@ -10,13 +10,14 @@
 >Enter the backend folder `npm run dev` to start Mongodb Server.
 * Frotend
 >Enter the frontend folder `npm run server:dev` Development mode.
+
 >Compile frontend `npm run build`
 
-## Utility
+## Funtions
 * Show books
 * Save Books
 
-## Tools
+## Integrations
 * MongoDB
 * Node
 * JavaScript
